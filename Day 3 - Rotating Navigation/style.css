@@ -25,7 +25,7 @@ body {
   transform: rotate(-20deg);
 }
 
-.container.show-nav + li{
+.container.show-nav + nav li{
   transform: translateX(0);
   transition-delay: 0.3s;
 }
